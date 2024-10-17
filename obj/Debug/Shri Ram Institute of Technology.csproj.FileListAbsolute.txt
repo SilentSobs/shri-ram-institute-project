@@ -1,0 +1,21 @@
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\bin\Debug\Shri Ram Institute of Technology.exe.config
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\bin\Debug\Shri Ram Institute of Technology.exe
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\bin\Debug\Shri Ram Institute of Technology.pdb
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\obj\Debug\Shri Ram Institute of Technology.csproj.AssemblyReference.cache
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\obj\Debug\Shri_Ram_Institute_of_Technology.Form1.resources
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\obj\Debug\Shri_Ram_Institute_of_Technology.Properties.Resources.resources
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\obj\Debug\Shri Ram Institute of Technology.csproj.GenerateResource.cache
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\obj\Debug\Shri Ram Institute of Technology.csproj.CoreCompileInputs.cache
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\obj\Debug\Shri Ram Institute of Technology.exe
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\obj\Debug\Shri Ram Institute of Technology.pdb
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\bin\Debug\ExternalTools\HxD\HxD32.exe
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\bin\Debug\ExternalTools\HxD\HxD64.exe
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\bin\Debug\ExternalTools\UEFI\UEFI Views.exe
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\bin\Debug\ExternalTools\UEFI\UEFITool.exe
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\bin\Debug\ExternalTools\ME Analayzer\me analyzer\mea.exe
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\bin\Debug\ExternalTools\ME Analayzer\mea.exe
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\bin\Debug\ExternalTools\ME Analayzer\MEA.dat
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\bin\Debug\Shri Ram Institute of Technology.exe.manifest
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\bin\Debug\Shri Ram Institute of Technology.application
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\obj\Debug\Shri Ram Institute of Technology.exe.manifest
+C:\Users\NUC003\Documents\ramesh\app\Shri Ram Institute of Technology\obj\Debug\Shri Ram Institute of Technology.application
